@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\migrator\migrator\bin\Debug\net6.0\migrator.exe
+C:\Users\Admin\source\repos\migrator\migrator\bin\Debug\net6.0\migrator.deps.json
+C:\Users\Admin\source\repos\migrator\migrator\bin\Debug\net6.0\migrator.runtimeconfig.json
+C:\Users\Admin\source\repos\migrator\migrator\bin\Debug\net6.0\migrator.dll
+C:\Users\Admin\source\repos\migrator\migrator\bin\Debug\net6.0\migrator.pdb
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\migrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\migrator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\migrator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\migrator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\migrator.dll
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\refint\migrator.dll
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\migrator.pdb
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\migrator.genruntimeconfig.cache
+C:\Users\Admin\source\repos\migrator\migrator\obj\Debug\net6.0\ref\migrator.dll
